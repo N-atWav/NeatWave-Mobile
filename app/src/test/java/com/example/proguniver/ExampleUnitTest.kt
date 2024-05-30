@@ -1,4 +1,4 @@
-package org.neatwave
+package com.example.proguniver
 
 import org.junit.Test
 
